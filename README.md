@@ -74,6 +74,10 @@ The "Recipes" in the Granite Snack Cookbook showcase the essential capabilities 
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
 
+### Semantic Kernel Integration
+
+1. [Minimal Q&A Agent Using Ollama](recipes/Semantic-Kernel/Minimal_QA_Agent_Ollama.ipynb) (Not compatible with Colab - requires local Ollama installation)
+
 ### Intrinsic Functions
 
 1. [Chain of thought (cot) reasoning](recipes/Intrinsics/Granite_Reasoning.ipynb)
