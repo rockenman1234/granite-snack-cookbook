@@ -24,6 +24,7 @@ The "Recipes" in the Granite Snack Cookbook showcase the essential capabilities 
    </a>
 1. [Tool Calling](recipes/Tool-Calling/Automatic_Tool_Calling.ipynb)(Not compatible with Colab)
 1. [Structured Responses](recipes/Structured_Response/Structured_Responses_LMStudio.ipynb)(Not compatible with Colab)
+1. [Speech](recipes/Speech/speech.ipynb)(Not compatible with Colab)
 
 ### Compound Systems
 
@@ -103,6 +104,10 @@ The "Recipes" in the Granite Snack Cookbook showcase the essential capabilities 
    </a>
 1. [Loading a LoRA from Huggingface](recipes/Load_LoRA_from_Huggingface/Load_LoRA_From_Huggingface.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Load_LoRA_from_Huggingface/Load_LoRA_From_Huggingface.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
+1. [Fine Tuning Granite - Unsloth](recipes/Fine_Tuning/FineTuning_with_Unsloth.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/Fine_Tuning/FineTuning_with_Unsloth.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
 
